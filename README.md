@@ -1,1 +1,1 @@
-# www.js.com
+# www.javascript.com
